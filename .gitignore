@@ -1,0 +1,7 @@
+# Windows default autosave extension
+*.asv
+
+#pdf or docx file
+*.pdf
+*.docx
+
